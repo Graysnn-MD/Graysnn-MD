@@ -21,10 +21,4 @@ I specialize in troubleshooting complex hardware/software issues and finding way
 
     Email: bygraysonn@gmail.com
 
-💡 Tips for Customizing this:
 
-    Add "GitHub Stats": You can add dynamic cards that show your top languages or commit streaks using GitHub Readme Stats.
-
-    Visuals: Since you work with Apple Shortcuts, adding a screenshot or a GIF of your "Reminders Housekeeping" automation in action would be a very cool "show, don't tell" element.
-
-Would you like me to help you write a specific "Technical Philosophy" section or add code snippets for your Apple Shortcuts logic?
