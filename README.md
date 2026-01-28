@@ -21,4 +21,8 @@ I specialize in troubleshooting complex hardware/software issues and finding way
 
     Email: bygraysonn@gmail.com
 
+    Twitter: https://www.x.com/gr4yson_
+
+    
+
 
