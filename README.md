@@ -1,16 +1,30 @@
-## Hi there 👋
+## Hi there 👋, I'm Grayson
 
-<!--
-**Graysnn-MD/Graysnn-MD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 IT Technician
 
-Here are some ideas to get you started:
+I specialize in troubleshooting complex hardware/software issues and finding ways to automate the mundane. My goal is to bridge the gap between technical complexity and daily efficiency.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    🛠️ Currently working as an IT Technician, focusing on school environment infrastructure.
+
+    🧠 I value intellectual sparring—I'm always looking for ways to test my reasoning and refine my technical assumptions.
+
+🛠 Tech Stack & Tools
+
+    Operating Systems: macOS, Windows, iOS/iPadOS
+
+    IT Support: Hardware Troubleshooting, Network Management, MDM (Mobile Device Management), Software Installation/Troubleshooting
+
+
+📫 How to reach me:
+
+    LinkedIn: https://www.linkedin.com/in/grayson-pfister-380b2429b/
+
+    Email: bygraysonn@gmail.com
+
+💡 Tips for Customizing this:
+
+    Add "GitHub Stats": You can add dynamic cards that show your top languages or commit streaks using GitHub Readme Stats.
+
+    Visuals: Since you work with Apple Shortcuts, adding a screenshot or a GIF of your "Reminders Housekeeping" automation in action would be a very cool "show, don't tell" element.
+
+Would you like me to help you write a specific "Technical Philosophy" section or add code snippets for your Apple Shortcuts logic?
